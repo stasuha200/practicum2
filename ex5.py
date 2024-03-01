@@ -1,2 +1,2 @@
 volume = float(input())
-print(round(volume * 0.19, 2))
+print('%.2f' % (volume * 0.19))
